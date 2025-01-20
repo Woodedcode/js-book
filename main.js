@@ -121,23 +121,34 @@
 // console.log(x !== y)
 
 //page41
+// let x = 5;
+// let y = 6;
+// console.log(y > x, "y greater than x")
+// console.log(x > y, "x greater than y")
+// console.log(y > y, "y greater than y")
+// console.log(y >= y, "y greater than or equal to y")
+// console.log(y < x, "y less than x")
+// console.log(x < y, "x less than y")
+// console.log(y < y, "y less than y")
+// console.log(y <= y, "y less than or equal to y")
 
+// //page42
+// let x = 1;
+// let y = 2;
+// let z = 3;
+//AND
+// console.log(x < y && y < z, "x less than y AND y less than z")
+// console.log(x < y && y < z, "x greater than y AND y less than z")
 
+//page43
+//OR
+// console.log(x > y || y < z, "x greater than y OR y less than z")
+// console.log(x > y || y > z, "x greater than y OR y greater than z")
+//NOT
+// let x = false;
+// console.log(!x)
+// let x = 1;
+// let y = 2;
+// console.log(!(x < y))
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+//44
